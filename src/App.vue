@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
+    <h1>My new change to trigger the action on pull request 2</h1>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-    <h1>My new change to trigger the action 2</h1>
   </div>
 </template>
 
