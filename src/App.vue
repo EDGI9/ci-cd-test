@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-    <h1>My new change to trigger the action</h1>
+    <h1>My new change to trigger the action 2</h1>
   </div>
 </template>
 
